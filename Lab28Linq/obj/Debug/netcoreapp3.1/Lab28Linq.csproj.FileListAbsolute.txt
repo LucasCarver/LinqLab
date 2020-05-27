@@ -1,0 +1,13 @@
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\bin\Debug\netcoreapp3.1\Lab28Linq.exe
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\bin\Debug\netcoreapp3.1\Lab28Linq.deps.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\bin\Debug\netcoreapp3.1\Lab28Linq.runtimeconfig.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\bin\Debug\netcoreapp3.1\Lab28Linq.runtimeconfig.dev.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\bin\Debug\netcoreapp3.1\Lab28Linq.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\bin\Debug\netcoreapp3.1\Lab28Linq.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\obj\Debug\netcoreapp3.1\Lab28Linq.csprojAssemblyReference.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\obj\Debug\netcoreapp3.1\Lab28Linq.AssemblyInfoInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\obj\Debug\netcoreapp3.1\Lab28Linq.AssemblyInfo.cs
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\obj\Debug\netcoreapp3.1\Lab28Linq.csproj.CoreCompileInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\obj\Debug\netcoreapp3.1\Lab28Linq.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\obj\Debug\netcoreapp3.1\Lab28Linq.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\Day28\Lab28Linq\Lab28Linq\obj\Debug\netcoreapp3.1\Lab28Linq.genruntimeconfig.cache

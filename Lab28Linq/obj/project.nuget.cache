@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXYL8wgQ+Z1TH7MNNH/vaKHMzXXLe9NlDYoFLBZz9VnFuqEQWXZVsG6XxxagQ4xEDbhDBLr/K/nO5rYAV79hhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imWUMPUS\\source\\repos\\CSharp_April2020\\Day28\\Lab28Linq\\Lab28Linq\\Lab28Linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imWUMPUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
